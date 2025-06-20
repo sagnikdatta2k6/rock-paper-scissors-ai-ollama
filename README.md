@@ -7,7 +7,6 @@ This project uses **Meta's LLaMA 3 model** served locally through [Ollama](https
   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=flat-square&logo=streamlit" />
   <img src="https://img.shields.io/badge/Model-LLaMA%203-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/github/license/your-username/rock-paper-scissors-ai-ollama?style=flat-square" />
 </p>
 
 ---
