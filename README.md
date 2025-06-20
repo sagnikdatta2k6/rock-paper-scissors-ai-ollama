@@ -72,11 +72,17 @@ streamlit run rps_app.py
 ## 🗃️ Project Structure
 
 ├── main.py           # CLI version of the game
+
 ├── rps_app.py        # Streamlit web app
+
 ├── game_logic.py     # AI integration & logic
+
 ├── requirements.txt  # Dependencies
+
 ├── .gitignore        # Ignored files
+
 ├── LICENSE           # MIT license
+
 └── README.md         # This file
 
 ---
